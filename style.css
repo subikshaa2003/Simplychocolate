@@ -1,0 +1,33 @@
+
+.bg1{
+	background-color:#463126;
+	color:white;
+    padding:2px;
+a{
+	color:white;
+}
+.bg2{
+	background-color:#463126;
+	color:white;
+}
+h3{
+	margin-top:-20px;
+}
+.img{
+	color:black;
+}
+.btn1{
+	background-color:white;
+	color:black;
+	z-index:2;
+}
+.btn2{
+	background-color:#463126;
+	color:white;
+}
+.para-content1{
+	margin-top:-20px;
+}
+.bg21{
+	margin-top:40px;
+}
